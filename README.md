@@ -60,7 +60,7 @@ $$
 \hat{W}_{\text {cubic }}(\mathbf{k}, \mathbf{L})=\frac{\sin \left(k_x L_x / 2\right)}{k_x L_x / 2} \frac{\sin \left(k_y L_y / 2\right)}{k_y L_y / 2} \frac{\sin \left(k_z L_z / 2\right)}{k_z L_z / 2}
 $$
 
-where the vector $\mathbf{L}$ denoting for $\left\{L_x, L_y, L_z\right\}$ defines the side length of cubic.
+where the vector $\mathbf{L}$ denoting for ${L_x, L_y, L_z}$ defines the side length of cubic.
 
 ##### Cylinder Top Hat
 
